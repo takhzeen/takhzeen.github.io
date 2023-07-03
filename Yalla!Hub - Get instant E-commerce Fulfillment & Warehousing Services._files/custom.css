@@ -1,0 +1,16 @@
+.t-rec {
+word-break: normal !important;
+}
+
+.tn-form__submit .t-submit {
+    transition: all 0.3s ease-in-out;
+}
+.tn-form__submit .t-submit:hover {
+    /* укажи цвет фона при наведении */
+    background-color: #bae900 !important;
+    /* укажи цвет текста при наведении */
+    color: #ffffff !important;
+    /* укажи цвет бордюра при наведении, либо удали строку ниже, если стиль не нужен*/
+    border-color: #bae900 !important;
+}
+
